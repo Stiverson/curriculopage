@@ -20,8 +20,8 @@ p {
 font-weight: bold;
 }
 
-.cargo{
-
+ p .cargo{
+  text-align: justify;
   font-weight: bold;
   font-size: 24px;
 }
@@ -29,6 +29,11 @@ font-weight: bold;
 .Conhecimentos{
 
   text-align:center;
+}
+
+.conteudo {
+
+  text-align: justify;
 }
 
 
